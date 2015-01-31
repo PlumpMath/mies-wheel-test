@@ -9,7 +9,6 @@
                  [com.facebook/react "0.12.2"]
                  [figwheel "0.2.2-SNAPSHOT"]
                  [org.clojure/core.async "0.1.346.0-17112a-alpha"]
-                 [sablono "0.2.22"]
                  [org.om/om "0.8.0"]]
 
   :plugins [[lein-cljsbuild "1.0.4"]
