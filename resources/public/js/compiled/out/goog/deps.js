@@ -30,3 +30,4 @@ goog.addDependency("math/coordinate.js", ['goog.math.Coordinate'], ['goog.math']
 goog.addDependency("math/size.js", ['goog.math.Size'], []);
 goog.addDependency("dom/dom.js", ['goog.dom', 'goog.dom.Appendable', 'goog.dom.DomHelper'], ['goog.array', 'goog.asserts', 'goog.dom.BrowserFeature', 'goog.dom.NodeType', 'goog.dom.TagName', 'goog.functions', 'goog.math.Coordinate', 'goog.math.Size', 'goog.object', 'goog.string', 'goog.userAgent']);
 goog.addDependency("net/jsloader.js", ['goog.net.jsloader', 'goog.net.jsloader.Error', 'goog.net.jsloader.ErrorCode', 'goog.net.jsloader.Options'], ['goog.array', 'goog.async.Deferred', 'goog.debug.Error', 'goog.dom', 'goog.dom.TagName']);
+goog.addDependency("ui/idgenerator.js", ['goog.ui.IdGenerator'], []);
